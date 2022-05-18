@@ -68,6 +68,8 @@ When a user clicks on any product in the list, it toggles between the display of
 The stock events for each products are added in the Add-Stock-Events page. The name of the product, tag no. the type of event (add or remove) and the quantity that was added or removed are entered and then updated here.
 
 - Data analysis and Visualization
+![06_ProductAnalysis](https://user-images.githubusercontent.com/55667443/169044690-a8d39242-dd3f-41f8-9724-835ea79edbc7.jpg)
+![07_ProductVisualization](https://user-images.githubusercontent.com/55667443/169044720-587eead2-9282-451c-b647-33d0536bb38c.jpg)
 This is where machine learning models are applied to the data generated from the app or other external dataset for making predictive or descriptive analysis to enhance the decision making process of the retail outlet or the users of the inventory system.
 
 - About
